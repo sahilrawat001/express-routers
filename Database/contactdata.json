@@ -1,0 +1,50 @@
+[
+ {
+    "id":1,
+    "contact" : 987653210,
+    "mail":"user1@gmail.com",
+    "state":"punjab",
+   "type":"c"
+
+
+ },
+ {
+    "id":2,
+    "contact" : 935653210,
+    "mail":"user1@gmail.com",
+    "state":"punjab",
+
+    "type":"c"
+
+ },
+ {
+    "id":3,
+    "contact" : 987624110,
+    "mail":"user1@gmail.com",
+    "state":"punjab",
+
+    "type":"c"
+
+
+ },
+ 
+ {
+    "id":4,
+    "contact" : 845653210,
+    "mail":"user1@gmail.com",
+    "state":"punjab",
+
+    "type":"c"
+
+
+ },
+ {
+    "id":5,
+    "contact" : 625653210,
+    "mail":"user1@gmail.com",
+    "state":"punjab",
+    "type":"c"
+
+
+ }
+]
